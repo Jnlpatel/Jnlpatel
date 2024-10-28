@@ -1,16 +1,13 @@
-## Hi there 👋
+![Header Image](/images/me.jpeg)
 
-<!--
-**Jnlpatel/Jnlpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+- As a front-end web developer, I like learning new technologies while bringing a static design or concept to life.
+- 🌱 I’m currently learning Web Development at Humber College.
+- ⚡ Fun fact: I Love to explore new places.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/jinal-patel-a26852192/) 
+[![Stackoverflow](/images/stack.png)](https://stackoverflow.com/users/27258327/user27258327)
+
+
