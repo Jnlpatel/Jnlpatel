@@ -1,4 +1,4 @@
-![Header Image](/images/me.jpeg)
+![Header Image](/images/b1.jpg)
 
 ### About me:
 - As a front-end web developer, I like learning new technologies while bringing a static design or concept to life.
